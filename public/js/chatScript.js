@@ -53,7 +53,7 @@ function addMessageToHistory(sender, message) {
 
 function readAloud(text) {
   const utterance = new SpeechSynthesisUtterance(text);
-  window.speechSynthesis.speak(utterance);
+  window.speechSynthesis.speak(utterance); // Replace w/ new code to read text aloud
 }
 
 form.addEventListener('submit', (event) => {
