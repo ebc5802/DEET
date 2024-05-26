@@ -3,7 +3,7 @@ TTS Transformer based on [Suno Bark Github](https://github.com/suno-ai/bark?tab=
 
 ## Running Instructions
 
-This program requires you to have [node](https://nodejs.org/en/download/package-manager) downloaded.
+This program requires you to have [node](https://nodejs.org/en/download/package-manager) downloaded and a valid .env file with a valid Gemini API_Key.
 
 ```npm install```
 
