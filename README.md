@@ -9,6 +9,8 @@ This program requires you to have [node](https://nodejs.org/en/download/package-
 
 ```node server.js```
 
+The application will now be available in your browser using ```localhost:3000```
+
 ### To Run TTS Transformer
 
 ```pip install git+https://github.com/suno-ai/bark.git```
