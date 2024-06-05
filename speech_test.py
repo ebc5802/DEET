@@ -12,7 +12,7 @@ voice_preset = "v2/en_speaker_6"
 # voice_preset = "v2/zh_speaker_4" # Chinese Female Voice
 
 # inputs = processor("Hello. 你好我的名字是丹尼尔.", voice_preset=voice_preset)
-inputs = processor("Wow! Daniel is the biggest cutie patootie? Yes. Definitely.", voice_preset=voice_preset)
+inputs = processor("Wow! Daniel is the biggest cutie patootie? [laughs]", voice_preset=voice_preset)
 
 audio_array = model.generate(**inputs)
 audio_array = audio_array.cpu().numpy().squeeze() # Can use CPU or GPU
