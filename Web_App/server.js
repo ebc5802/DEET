@@ -12,7 +12,7 @@ app.use(express.urlencoded({ extended: true }));
 
 // Configure express-session middleware
 app.use(session({
-    secret: 'your-secret-key', // Change this to your own secret key
+    secret: process.env.SESSION_SECRET || 'change-this-in-production',
     resave: false,
     saveUninitialized: true
 }));
