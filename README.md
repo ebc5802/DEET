@@ -1,5 +1,7 @@
 # 🦟 DEET — AI Language Learning Through Conversation
 
+> **DEET** = **D**aniel · **E**dison · **E**van · **T**engis
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?logo=google&logoColor=white)
@@ -87,5 +89,7 @@ Outputs `bark_out.wav`. Supported languages listed [here](https://suno-ai.notion
 
 | Member | Role |
 |---|---|
+| Daniel Sun ([@dsun03](https://github.com/dsun03)) | Frontend |
 | Edison Chen ([@ebc5802](https://github.com/ebc5802)) | Backend / AI integration |
-| [@dsun03](https://github.com/dsun03) | Frontend |
+| Evan Wang | Frontend |
+| Tengis Otgonbaatar ([LinkedIn](https://www.linkedin.com/in/otengis/)) | Backend |
