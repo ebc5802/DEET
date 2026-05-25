@@ -91,5 +91,5 @@ Outputs `bark_out.wav`. Supported languages listed [here](https://suno-ai.notion
 |---|---|
 | Daniel Sun ([@dsun03](https://github.com/dsun03)) | Frontend |
 | Edison Chen ([@ebc5802](https://github.com/ebc5802)) | Backend / AI integration |
-| Evan Wang | Frontend |
+| Evan Wang ([LinkedIn](https://www.linkedin.com/in/evan-wang-696bbb276/)) | Ideation |
 | Tengis Otgonbaatar ([LinkedIn](https://www.linkedin.com/in/otengis/)) | Backend |
