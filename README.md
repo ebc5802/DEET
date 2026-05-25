@@ -1,4 +1,4 @@
-# DEET — AI Language Learning Through Conversation
+# 🌎 DEET — AI Language Learning Through Conversation
 
 > **DEET** = **D**aniel · **E**dison · **E**van · **T**engis
 
